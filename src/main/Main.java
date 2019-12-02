@@ -10,5 +10,6 @@ public class Main {
         String str="百二十三";
         int value;
         value=Integer.parseInt(str);
+        System.out.println(value);
     }
 }
